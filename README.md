@@ -8,8 +8,8 @@ This repository hosts the releases and documentation of Snippets.
 
 ## Where can i download the macOS Client?
 
-- [Mac (Apple Silicon)](https://github.com/samu/snippets/releases/download/v0.9.0/Snippets-0.9.0-arm64.dmg)
-- [Mac (Intel)](https://github.com/samu/snippets/releases/download/v0.9.0/Snippets-0.9.0-x64.dmg)
+- [Mac (Apple Silicon)](https://github.com/samu/snippets/releases/download/v0.10.0/Snippets-0.10.0-arm64.dmg)
+- [Mac (Intel)](https://github.com/samu/snippets/releases/download/v0.10.0/Snippets-0.10.0-x64.dmg)
 
 ## Where do i find the iOS app?
 
