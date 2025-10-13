@@ -43,3 +43,17 @@ Follow the creator here:
 ## Where is the source code?
 
 Snippets is not open source. There are no concrete plans (yet) for open sourcing.
+
+## Features
+
+### Dashboards
+
+![dashboards](images/dashboards.png)
+
+### Flashcards:
+
+![flashcards](images/flashcards.png)
+
+### Journaling and Habit Tracking
+
+![journaling-and-habit-tracking](images/journaling-and-habit-tracking.png)
