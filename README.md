@@ -50,7 +50,7 @@ Snippets is not open source. There are no concrete plans (yet) for open sourcing
 
 ![dashboards](images/dashboards.png)
 
-### Flashcards:
+### Flashcards
 
 ![flashcards](images/flashcards.png)
 
