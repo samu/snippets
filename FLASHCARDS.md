@@ -1,3 +1,3 @@
 ## Flashcards
 
-![dashboards](images/flashcards.gif)
+![attributes](images/flashcards.gif)
