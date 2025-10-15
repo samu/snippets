@@ -54,6 +54,8 @@ Snippets is not open source. There are no concrete plans (yet) for open sourcing
 
 ![flashcards](images/flashcards.png)
 
+[tutorial](FLASHCARDS.md).
+
 ### Journaling and Habit Tracking
 
 ![journaling-and-habit-tracking](images/journaling-and-habit-tracking.png)
