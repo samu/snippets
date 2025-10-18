@@ -64,7 +64,7 @@ Snippets is not open source. There are no concrete plans (yet) for open sourcing
 
 [TUTORIAL](ATTRIBUTES.md)
 
-### <kbd>CMD</kbd>+<kbd>k</kbd>
+### CMD+K
 
 ![cmdk](images/cmdk.gif)
 
