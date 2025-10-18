@@ -63,3 +63,15 @@ Snippets is not open source. There are no concrete plans (yet) for open sourcing
 ### Attributes
 
 [TUTORIAL](ATTRIBUTES.md)
+
+### <kbd>CMD</kbd>+<kbd>k</kbd>
+
+![cmdk](images/cmdk.gif)
+
+### Rich Text Editing
+
+- Use <kbd>Space</kbd> to create formattings and <kbd>Backspace</kbd> to destroy them
+- Use <kbd>ArrowLeft</kbd> and <kbd>ArrowRight</kbd> to enter formatting boundaries
+- Use <kbd>Enter</kbd> and <kbd>Escape</kbd> when inside a link mark to toggle focus between the link input and the editor
+
+![richtextediting](images/richtextediting.gif)
