@@ -53,6 +53,15 @@ Snippets gives you a beautiful what-you-see-is-what-you-get (WYSIWYG) editing ex
 
 ![richtext](images/richtext.png)
 
+### Offline first & sync with anything
+
+You can use the app offline and without an account. All your data is cached on your local disk. You can choose how you want to back up your data:
+
+- **Local Folder**: everything is stored in a folder which you choose. This allows you to, for example, back up your data in google drive. Please note that it is _not_ possible sync with mobile devices this way.
+- **GitHub**: you can choose to store everything in a GitHub repo. There is no need for manual or periodic commits: once you've changee a doc, the app immediately initiates a sync and uploads to GitHub.
+- **Self Hosted**: (Note: not yet released) data sync is based on simple protocol (fetch all, push, upload media) which makes it easy to self-host a server with which you can sync. This option will become available in the future.
+- **Snippets Cloud**: (Note: not yet released) this will be the apps official storage solution. It will allow for use cases such as note sharing and AI integration.
+
 ### 5 core concepts
 
 Snippets is made up of 5 core concepts. They exist in isolation and accumulate to great power once combined:
