@@ -39,7 +39,7 @@ Snippets solves these problems:
 
 ### Not Markdown Based
 
-Markdown is a great fit in technical, collaborative scenarios where documentation is stored in version control systems. However, it is inherently unsuitable for the note taking use case. By not relying on markdown, Snippets is capable of using much more complex data structures rather than just plain text files.
+Snippets is intentionally _not_ based on Mardown. Markdown is a great fit in technical, collaborative scenarios where documentation is stored in version control systems. However, it is inherently unsuitable for the note taking use case. By not relying on markdown, Snippets is capable of using much more complex data structures rather than just plain text files.
 
 It is no problem at all to
 
