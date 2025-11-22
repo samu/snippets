@@ -2,18 +2,23 @@
 
 ![intro](images/intro.png)
 
-## What is this?
+## Download
 
-This repository hosts the releases and documentation of Snippets.
+### Mac
 
-## Where can i download the macOS Client?
+[Mac Intel](https://github.com/samu/snippets/releases/download/v0.14.0/Snippets-0.14.0-x64.dmg) | [Mac ARM](https://github.com/samu/snippets/releases/download/v0.14.0/Snippets-0.14.0-arm64.dmg)
 
-- [Mac (Apple Silicon)](https://github.com/samu/snippets/releases/download/v0.13.0/Snippets-0.13.0-arm64.dmg)
-- [Mac (Intel)](https://github.com/samu/snippets/releases/download/v0.13.0/Snippets-0.13.0-x64.dmg)
+### iOS
 
-## Where do i find the iOS app?
+[iOS (Beta via TestFlight)](https://testflight.apple.com/join/3wpgBj2Z)
 
-The iOS app is in beta. It is testable via TestFlight, which is an official app from Apple to facilitate beta-testing. Use [this link](https://testflight.apple.com/join/3wpgBj2Z) to get access.
+### Windows
+
+[Windows](https://github.com/samu/snippets/releases/download/v0.14.0/Snippets-0.14.0.Setup.exe)
+
+### Android
+
+[Android (Beta via APK)](https://github.com/samu/snippets/releases/download/v0.14.0/Snippets-0.14.0.apk)
 
 ## Features
 
