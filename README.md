@@ -6,7 +6,7 @@
 
 ### Mac
 
-[Mac Intel](https://github.com/samu/snippets/releases/download/v0.14.0/Snippets-0.14.0-x64.dmg) | [Mac ARM](https://github.com/samu/snippets/releases/download/v0.14.0/Snippets-0.14.0-arm64.dmg)
+[Mac Intel](https://github.com/samu/snippets/releases/download/v0.15.0/Snippets-0.15.0-x64.dmg) | [Mac ARM](https://github.com/samu/snippets/releases/download/v0.15.0/Snippets-0.15.0-arm64.dmg)
 
 ### iOS
 
@@ -14,11 +14,11 @@
 
 ### Windows
 
-[Windows](https://github.com/samu/snippets/releases/download/v0.14.0/Snippets-0.14.0.Setup.exe)
+[Windows](https://github.com/samu/snippets/releases/download/v0.15.0/Snippets-0.15.0.Setup.exe)
 
 ### Android
 
-[Android (Beta via APK)](https://github.com/samu/snippets/releases/download/v0.14.0/Snippets-0.14.0.apk)
+[Android (Beta via APK)](https://github.com/samu/snippets/releases/download/v0.15.0/Snippets-0.15.0.apk)
 
 ## Features
 
