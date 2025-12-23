@@ -6,7 +6,7 @@
 
 ### Mac
 
-[Mac Intel](https://github.com/samu/snippets/releases/download/v0.15.0/Snippets-0.15.0-x64.dmg) | [Mac ARM](https://github.com/samu/snippets/releases/download/v0.15.0/Snippets-0.15.0-arm64.dmg)
+[Mac Intel](https://github.com/samu/snippets/releases/download/v0.16.0/Snippets-0.16.0-x64.dmg) | [Mac ARM](https://github.com/samu/snippets/releases/download/v0.16.0/Snippets-0.16.0-arm64.dmg)
 
 ### iOS
 
@@ -14,11 +14,11 @@
 
 ### Windows
 
-[Windows](https://github.com/samu/snippets/releases/download/v0.15.0/Snippets-0.15.0.Setup.exe)
+[Windows](https://github.com/samu/snippets/releases/download/v0.16.0/Snippets-0.16.0.Setup.exe)
 
 ### Android
 
-[Android (Beta via APK)](https://github.com/samu/snippets/releases/download/v0.15.0/Snippets-0.15.0.apk)
+[Android (Beta via APK)](https://github.com/samu/snippets/releases/download/v0.16.0/Snippets-0.16.0.apk)
 
 ## Features
 
@@ -126,10 +126,6 @@ This built in feature is made especially for software engineers who want to quic
 - Use <kbd>Enter</kbd> and <kbd>Escape</kbd> when inside a link mark to toggle focus between the link input and the editor
 
 ![richtextediting](images/richtextediting.gif)
-
-## Is it available on Windows / Linux / Android?
-
-Not yet, but it is implemented with cross-platform in mind, so it will for sure be available on other platforms in the future.
 
 ## How can i sync with a GitHub repository?
 
