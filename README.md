@@ -2,24 +2,6 @@
 
 ![intro](images/intro.png)
 
-## Download
-
-### Mac
-
-[Mac Intel](https://github.com/samu/snippets/releases/download/v0.17.0/Snippets-0.17.0-x64.dmg) | [Mac ARM](https://github.com/samu/snippets/releases/download/v0.17.0/Snippets-0.17.0-arm64.dmg)
-
-### iOS
-
-[iOS (Beta via TestFlight)](https://testflight.apple.com/join/3wpgBj2Z)
-
-### Windows
-
-[Windows](https://github.com/samu/snippets/releases/download/v0.17.0/Snippets-0.17.0.Setup.exe)
-
-### Android
-
-[Android (Beta via APK)](https://github.com/samu/snippets/releases/download/v0.17.0/Snippets-0.17.0.apk)
-
 ## Features
 
 ### Rich Text Editor
